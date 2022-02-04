@@ -8,6 +8,7 @@ To propose a CIP, initiate a pull request in this repository and follow the foll
 2. Format the pull request title in the following format: CIP-number: Title (Ex: CIP-4: Changing Reward Parameters)
 3. In the body of the pull request please follow the the format below:
 
+```
 CIP: Number 
 
 Title: Title of the Proposal 
@@ -19,6 +20,7 @@ Describe the changes you are requesting
 Test link: URL to the test net smart contracts if applicable 
 
 Audit: link to audit report if applicable 
+```
 
 If you have any questions feel free to ask the Chain community on Telegram (@Chain)
 
