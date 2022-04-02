@@ -1,4 +1,4 @@
-# Chain Improvement Proposals
+# Chain Improvement Proposals Framework
 
 Chain Improvement Proposals (CIPs) are either upgrades or changes to the Chain ecosystem of products that are brought forward by the Chain community. 
 
@@ -12,14 +12,12 @@ To propose a CIP, initiate a issue in this repository and follow the following s
 CIP: Number 
 
 Title: Title of the Proposal 
-
-Changes:
-
-Describe the changes you are requesting 
-
-Test link: URL to the test net smart contracts if applicable 
-
+Vision: Describe why you are proposing this change 
+Changes:Describe the changes you are requesting 
+Test URL: URL to the test net smart contracts if applicable 
 Audit: link to audit report if applicable 
+Budget: How much are you looking to get from the DAO Treasury?
+Timeline: When do you want to implement the change?
 ```
 
 If you have any questions feel free to ask the Chain community on Telegram (@Chain)
